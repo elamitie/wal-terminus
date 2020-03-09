@@ -1,0 +1,1 @@
+# Tiny repo consisting of a python script and batch file for automatically updating Terminus' colors after running pywal
